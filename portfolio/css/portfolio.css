@@ -203,6 +203,26 @@ section{
     --webkit-backface-visibility: hidden;
 }
 
+#form_area{
+    border: 1px solid #e4e4e4;
+    background-color: #fbfbfb;
+    text-align: left;
+    width: 100%;
+    display: inline-block;
+    
+}
+
+.input_box{
+    width: 910px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.form_font{
+    margin-left: 15px;
+}
+
 footer{
     border: 1px solid #d1d1d1;
 }
